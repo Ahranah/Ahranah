@@ -90,6 +90,7 @@ Here are some ideas to get you started:
 <a href="https://blog.naver.com/ahranbanana"><img src="https://img.shields.io/badge/naver-%03C75A.svg?&style=for-the-badge&logo=naver&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" />
 <img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />
+<img src="https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white" />
 </div>
 
 
