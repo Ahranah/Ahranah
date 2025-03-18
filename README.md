@@ -76,6 +76,7 @@ Here are some ideas to get you started:
 #### Others
 <div align="left">
   <img src="https://img.shields.io/badge/linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
 </td>
