@@ -86,6 +86,7 @@ Here are some ideas to get you started:
 ### <h2 align="left">How to reach me</h2>
 <div align="left">
   <a href="https://www.youtube.com/@ahranbanana" target="_blank"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="@ahranbanana" /></a>
+<a href="https://www.linkedin.com/in/hye-in-jeong-0ab37b311/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="linkedin" /></a>
 <a href="mailto:window7651@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://ahranah.tistory.com"><img src="https://img.shields.io/badge/tistory-000000.svg?&style=for-the-badge&logo=tistory&logoColor=white"/></a>
 <a href="https://blog.naver.com/ahranbanana"><img src="https://img.shields.io/badge/naver-%03C75A.svg?&style=for-the-badge&logo=naver&logoColor=white"/></a>
