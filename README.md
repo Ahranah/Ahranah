@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 #### Programming Languages
 <div align="left">
   <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
-  <img width="12" />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="25" alt="cplusplus logo" />
+  <img width="5" />
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
 </div>
@@ -45,36 +45,54 @@ Here are some ideas to get you started:
 
 #### Data Science
 <div align="left">
-  <img src="https://img.shields.io/badge/jupyter-%23F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=black" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
+<li>
+	<a href=#> 2024년 강릉시 데이터분석 공모전 우수상 <br>
+</li>
+		<li>
+			<a href=#> KHUDA 6th
+		</li>
+  		<li>
+			<a href=#> 부스트코스< Data Science 2024>
+		</li>
+    		<li>
+			<a href=#> ADsP, SQLd
+		</li>
+				
 </div>
 
-#### Frontend
+#### Fullstack
 <div align="left">
   <img src="https://img.shields.io/badge/vue.js-%234FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white" />
-</div>
-
-#### Backend & Database
 <div align="left">
   <img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
 <img src="https://img.shields.io/badge/intellij%20idea-%23000000.svg?&style=for-the-badge&logo=intellij%20idea&logoColor=white" />
   <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
+	<li>
+		<a href=#> KB_IT's Your Life 6th
+	</li>
 </div>
 
 #### Software
 <div align="left">
   <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=black" />
   <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
+	<li>
+		<a href=#> GTQ, GTQi 1급
+	</li>
 </div>
 
 #### Others
 <div align="left">
   <img src="https://img.shields.io/badge/linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
+	  	<li>
+			<a href=#> 매경테스트 최우수(800)
+		</li>
+		<li>
+			<a href=#> TOPCIT Level 3(433)
+		</li>
 </div>
 
 </td>
