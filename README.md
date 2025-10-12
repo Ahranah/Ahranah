@@ -46,6 +46,9 @@ Here are some ideas to get you started:
 #### Data Science
 <div align="left">
 <li>
+	<a href=#> KB IT's Your Life 해커톤 최우수상 <br>
+</li>
+<li>
 	<a href=#> 2024년 강릉시 데이터분석 공모전 우수상 <br>
 </li>
 		<li>
@@ -55,7 +58,7 @@ Here are some ideas to get you started:
 			<a href=#> 부스트코스< Data Science 2024>
 		</li>
     		<li>
-			<a href=#> ADsP, SQLd
+			<a href=#> 빅데이터분석기사, ADsP, SQLd
 		</li>
 				
 </div>
